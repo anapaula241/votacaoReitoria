@@ -1,0 +1,16 @@
+.banner {
+    width: 90%;
+    max-width: 1140px;
+    height: auto;
+    max-height: 252px;
+    border-radius: 3px;
+
+}
+
+body {
+    background-color: #3c6178;
+}
+
+.alertas {
+    font-size: 1.3rem;
+}
