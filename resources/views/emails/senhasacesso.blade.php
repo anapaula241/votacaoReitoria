@@ -30,7 +30,7 @@
         <p>Senha: {{$dados['senha']}}</p>
         <hr/>
         <p>É preciso acessar o painel de votação entre as 9h até as 19h do dia 06/12 para registrar o voto.</p>
-        <span>Link: </span> <a href="http://eleicao.uemg.br/">http://eleicao.uemg.br/</a>
+        <span>Link: </span> <a href="http://eleicao.uemg.br/">Eleição para Diretor(a) e Vice-Diretor(a) - UEMG 2021</a>
         <p>*Essa mensagem é pessoal e sigilosa, tendo sido enviada de forma automática. Favor não responder a esse e-mail.</p>
     </div>
 
