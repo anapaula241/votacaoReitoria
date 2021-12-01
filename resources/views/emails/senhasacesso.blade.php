@@ -28,8 +28,9 @@
         <hr/>
         <p>CPF: {{$dados['cpf']}}</p>
         <p>Senha: {{$dados['senha']}}</p>
-        <span>Link: </span> <a href="http://eleicao.uemg.br/">http://eleicao.uemg.br/</a>
         <hr/>
+        <p>É preciso acessar o painel de votação entre as 9h até as 19h do dia 06/12 para registrar o voto.</p>
+        <span>Link: </span> <a href="http://eleicao.uemg.br/">http://eleicao.uemg.br/</a>
         <p>*Essa mensagem é pessoal e sigilosa, tendo sido enviada de forma automática. Favor não responder a esse e-mail.</p>
     </div>
 
