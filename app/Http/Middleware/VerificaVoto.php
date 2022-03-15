@@ -27,7 +27,7 @@ class VerificaVoto
         $agora = Carbon::now();
 
         $dataInicio = Carbon::create(2022, 03, 01, 9, 0, 1);
-        $dataTermino = Carbon::create(2022, 03, 15, 20, 58, 59);
+        $dataTermino = Carbon::create(2022, 03, 16, 20, 58, 59);
 
         if (($agora < $dataInicio) || ($agora > $dataTermino)){
            return redirect()->route('home')->with('alertas', 'Você está fora do horário de votação.');
