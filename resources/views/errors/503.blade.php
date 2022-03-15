@@ -7,7 +7,7 @@
     <meta name="description"
           content="UEMG 2021- ENEM">
     <link rel="icon" href="/img/favicon.ico">
-    <title>UEMG 2021- Eleição</title>
+    <title>UEMG 2022- Eleição</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
 
 </head>
@@ -15,7 +15,7 @@
 <div id="app" class="container">
     <div class="card mt-5">
         <div class="card-header bg-success text-white font-weight-bold">
-            Eleição - UEMG 2021
+            Eleição - UEMG 2022
         </div>
         <div class="card-body">
             <h5 class="card-title"></h5>

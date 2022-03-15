@@ -22,7 +22,7 @@
 </style>
 <body>
     <div id="corpo">
-        <h1>Eleição para Diretor(a) e Vice-Diretor(a) - UEMG 2021</h1>
+        <h1>Eleição para Diretor(a) e Vice-Diretor(a) - UEMG 2022</h1>
         <hr/>
         <h2>{{$dados['nome']}}, segue abaixo os dados de acesso ao painel de votação:</h2>
         <hr/>

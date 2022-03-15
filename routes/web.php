@@ -32,7 +32,5 @@ Route::middleware(['auth', 'verificavoto'])->prefix('eleitor')->group(function()
     Route::post('/voto/branco', 'VotoController@saveVoteBranco')->name('eleitor-branco');
     Route::post('/voto/nulo', 'VotoController@saveVoteNulo')->name('eleitor-nulo');
 
-
-
 });
 

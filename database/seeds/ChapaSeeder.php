@@ -23,14 +23,14 @@ class ChapaSeeder extends Seeder
                 'unidade_id' => Unidade::where('num', 1)->first()->id
             ],
 
-            [
-                'nome_chapa' => 'Chapa Única',
-                'diretor' => 'Stella Hernandez Maganhi',
-                'foto_diretor' => '/img/chapas/2/chapa2/diretor.png',
-                'vicediretor' => 'Patrícia Alves Cardoso',
-                'foto_vicediretor' => '/img/chapas/2/chapa2/vicediretor.jpg',
-                'unidade_id' => Unidade::where('num', 2)->first()->id
-            ],
+            // [
+            //     'nome_chapa' => 'Chapa Única',
+            //     'diretor' => 'Stella Hernandez Maganhi',
+            //     'foto_diretor' => '/img/chapas/2/chapa2/diretor.png',
+            //     'vicediretor' => 'Patrícia Alves Cardoso',
+            //     'foto_vicediretor' => '/img/chapas/2/chapa2/vicediretor.jpg',
+            //     'unidade_id' => Unidade::where('num', 2)->first()->id
+            // ],
 
             // [
             //     'nome_chapa' => 'Chapa Única',

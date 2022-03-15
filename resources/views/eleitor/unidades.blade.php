@@ -19,7 +19,7 @@
     <div class="container">
         <div class="card">
             <div class="card-header text-center">
-                <span class="title">Selecione a unidade para votar!</span>
+                <span class="title">Selecione a unidade para votar !</span>
             </div>
             <div class="card-body">
                 <div class="row justify-content-center">
